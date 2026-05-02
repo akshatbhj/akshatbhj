@@ -12,5 +12,5 @@
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akshatbhj)](https://git.io/streak-stats)
   
