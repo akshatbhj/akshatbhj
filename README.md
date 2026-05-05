@@ -21,5 +21,5 @@
 
 ### 📊 Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akshatbhj&theme=catppuccin-frappe&hide_border=true&short_numbers=true&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akshatbhj&theme=dark)](https://git.io/streak-stats)
 
