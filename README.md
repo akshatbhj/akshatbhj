@@ -10,7 +10,7 @@
 
 ### Few things about me
 
-I am Chief Technical Larper @ Larptech inc.
+Currently working as, Chief Technical Larper @ Larptech inc.
 
 I orchestrate full-stack applications by stacking JavaScript libraries on top of other JavaScript libraries until the runtime achieves sentience. I operate at the intersection of bleeding-edge web frameworks and the harsh reality of browser backward compatibility.
 
